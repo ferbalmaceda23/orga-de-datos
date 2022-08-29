@@ -1,3 +1,3 @@
-# Organizacion de Datos - FIUBA
+# Organizacion de Datos - Rodriguez
 
 ### Trabajos practicos de la materia
